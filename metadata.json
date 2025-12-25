@@ -1,0 +1,5 @@
+{
+  "name": "Mandelbrot Voyager",
+  "description": "An interactive, high-performance Mandelbrot set explorer featuring smooth mouse-scroll zooming, panning, and AI-powered fractal analysis using Gemini.",
+  "requestFramePermissions": []
+}
